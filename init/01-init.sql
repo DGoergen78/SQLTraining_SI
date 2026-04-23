@@ -1,6 +1,3 @@
--- Datenbankstruktur für Windpark-Verwaltung
--- Wird beim ersten Start des Postgres-Containers automatisch ausgeführt
-
 DROP TABLE IF EXISTS betriebsdaten CASCADE;
 DROP TABLE IF EXISTS windrad CASCADE;
 DROP TABLE IF EXISTS windpark CASCADE;
