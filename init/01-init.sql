@@ -61,6 +61,7 @@ VALUES
 (106, 'Ostfriesland Ost', 'BlueSky Energy GmbH', 151.80, true),
 (107, 'Schwabenhoehe', 'TerraWind AG', 111.40, false),
 (108, 'Thueringer Wald', 'NovaWatt GmbH', 174.30, true);
+(108, 'Saarland', 'Energis', 164.50, true);
 
 INSERT INTO windrad (idwindrad, windradtyp, baujahr, nabenhoehe, leistungmaximal, leistungaktuell, idwindpark)
 VALUES
